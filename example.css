@@ -1,0 +1,30 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+.container1 {
+  background: linear-gradient(
+      287.15deg,
+      #450e4b 0%,
+      #3c0c41 24.48%,
+      rgba(207, 0, 99, 0) 100%
+    ),
+    #cf0063;
+  border-radius: 0px;
+  height: 800px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+img {
+  height: 43px;
+  left: 0%;
+  right: 89.58%;
+  top: calc(50% - 43px / 2 + 0.5px);
+  border-radius: 0px;
+  margin-left: 150px;
+  margin-top: 35px;
+}
+.words {
+  font-size: 25px;
+}
